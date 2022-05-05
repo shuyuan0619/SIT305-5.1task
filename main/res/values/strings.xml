@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="hello_blank_fragment">H</string>
+
+    <string-array name="newsTitle">
+        <item>Easy recipe to upgrade canned chickpeas for a money-saving meal</item>
+        <item>Banning books to save kids? Please. Bullets are more dangerous</item>
+        <item>Tampa Museum of Art receives $25 million gift for its expansion</item>
+        <item>fiture has a new fitness mirror to compete with Mirror</item>
+        <item>TV ownersInsomniacs Wizards Already Putting PS5 VRR to Work in Spider-Man, More</item>
+        <item>PS Plus Extra, Premium Will Add New PS5, PS4 Games Every Month, Sony Confirms</item>
+        <item>Asus Hot Dog Bun-Shaped Portable Monitor Might Look Awkward</item>
+    </string-array>
+
+    <string-array name="newsDetail">
+        <item>Beth of BudgetBytes shared her tips for saving on food at home.</item>
+        <item>As far as we know, neither a new addition to a beloved series on famous Americans titled “Who is Barack Obama?” nor “Muffin Wars,” a book about a kid detective, has harmed any children.</item>
+        <item>It s the largest private donation ever made to a public art museum and art education center in Florida.</item>
+        <item>It features voice control, gestures, and the ability to build custom workouts</item>
+        <item>Plenty of optimisations for fancy</item>
+        <item>Sony is busy sending out emails regarding the overhaul of PlayStation Plus</item>
+        <item>Asus  newest portable monitor looks as if someone accidentally sat on it and squished it down into an awkwardly wide shape. It s called the Asus</item>
+    </string-array>
+</resources>
